@@ -1,6 +1,6 @@
-/home/user/github.com/vixhnuchandran/rust-beginner-projects/2.guessing_game/target/debug/build/proc-macro2-72035f633739d8da/out/libproc_macro2.rmeta: build/probe.rs
+/home/user/github.com/vixhnuchandran/rust-projects/2.guessing_game/target/debug/build/proc-macro2-72035f633739d8da/out/libproc_macro2.rmeta: build/probe.rs
 
-/home/user/github.com/vixhnuchandran/rust-beginner-projects/2.guessing_game/target/debug/build/proc-macro2-72035f633739d8da/out/proc_macro2.d: build/probe.rs
+/home/user/github.com/vixhnuchandran/rust-projects/2.guessing_game/target/debug/build/proc-macro2-72035f633739d8da/out/proc_macro2.d: build/probe.rs
 
 build/probe.rs:
 
