@@ -4,7 +4,7 @@
 | ----------------------------- | ---------- | ------------ | -------------------------------------------------------------- | --------------------------------------------------- |
 | Hello, Rust!                  | 2024-09-13 | Easy         | Print a simple greeting                                        | Basic syntax, printing to console                   |
 | Guessing Game                 | 2024-09-13 | Easy         | Guess a randomly generated number                              | I/O, loops, conditionals, randomness                |
-| Simple Calculator             | YYYY-MM-DD | Easy         | Perform basic arithmetic operations                            | Functions, user input, arithmetic                   |
+| Simple Calculator             | 2024-09-13 | Easy         | Perform basic arithmetic operations                            | Functions, user input, arithmetic                   |
 | Temperature Converter         | YYYY-MM-DD | Easy         | Convert temperatures between Celsius, Fahrenheit, and Kelvin   | Functions, user input, conversion logic             |
 | Even or Odd Checker           | YYYY-MM-DD | Easy         | Check if a number is even or odd                               | I/O, conditionals, modulo operation                 |
 | Number to Words Converter     | YYYY-MM-DD | Easy         | Convert numbers to their word representation                   | Strings, conditionals, basic algorithms             |
